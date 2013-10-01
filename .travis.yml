@@ -2,7 +2,7 @@ language: node_js
 before_script:
      - "npm install -g se-interpreter"
 script:
-     - "se-interpreter example/interpreter_config.json"
+     - "se-interpreter test1/interpreter_config.json"
 
 env:
     global:

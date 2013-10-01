@@ -1,0 +1,11 @@
+language: node_js
+before_script:
+     - "npm install -g se-interpreter"
+script:
+     - "se-interpreter example/interpreter_config.json"
+
+env:
+    global:
+    - SAUCE_USERNAME=w2gi
+    - secure: "202ec8fe-2b54-44eb-a1c4-bf7fb1be2052"
+

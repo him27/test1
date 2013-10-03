@@ -7,5 +7,5 @@ script:
 env:
     global:
     - SAUCE_USERNAME=w2gi
-    - secure: "iwr0G7LifMf9REj3RCxSqmIcoIfZln0Sg2gEIkjBDgQ0Iv3kK82G4BsiYE5HSlygwrXjxsXBDNAjaRBuuOmihFyqn9sBh76rO0rQKmygqo7E5JVaD+zcvozg2IofsjJ3ehiJAT3QK6QvyOD5S1HkuiJi//MCMI5G/m2LChpqFl8="
+    - secure: "V/ns9bHXs5fhUtMMhi9ZAmpDUQqf7F6oDVIW2xs/UQ+DN3c2VDWOrmdt8yBT3ZwM/bsjA+w6qhy8FUc16Iq7RR0cFWEFxghNQ0XFG28n5OF5VKvmymjZcOnyee5ZGAiBMsuFFLXYYyvY8Bm9QwYihjYmiiYa7CuxyYoWlwaAnf0="
 
